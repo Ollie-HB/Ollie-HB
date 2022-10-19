@@ -1,8 +1,6 @@
 ### Hello, and welcome to my GitHub profile 👋 Read on to learn a little more about me and my coding journey so far... 👨‍💻
 
-([My CodeWars profile](https://www.codewars.com/users/Ollie__B) | ([My CodeAcademy profile](https://www.codecademy.com/profiles/Ollie__B) | 
-
-CV, linkedin)
+[CodeWars](https://www.codewars.com/users/Ollie__B) | [CodeAcademy](https://www.codecademy.com/profiles/Ollie__B) | [LinkedIn](https://www.linkedin.com/in/oliver-beck-a09077115/) | [GitHub CV](...)
 
 - 🌱 I’m currently learning ...
 
