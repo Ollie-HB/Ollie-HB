@@ -1,4 +1,6 @@
-### Hello, and welcome to my profile  👋  Read on to learn a little more about me and my coding journey so far.. 👨‍💻
+<p align="center">Hello, and welcome to my profile  👋</p>
+
+<p align="center">Read on to learn a little more about me and my coding journey so far.. 👨‍💻</p>
 
 [CodeWars](https://www.codewars.com/users/Ollie__B) | [CodeAcademy](https://www.codecademy.com/profiles/Ollie__B) | [LinkedIn](https://www.linkedin.com/in/oliver-beck-a09077115/) | [GitHub CV](...)
 
