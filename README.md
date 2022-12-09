@@ -16,3 +16,9 @@ I take genuine satisfaction from thinking about and solving complex problems, ow
 
 [LinkedIn](https://www.linkedin.com/in/oliver-beck-a09077115/) | [CodeWars](https://www.codewars.com/users/Ollie__B) | [CodeAcademy](https://www.codecademy.com/profiles/Ollie__B) | 2 page CV | Gmail link... | Whatsapp?
 
+## Projects
+
+| Name                         | Description             | Tech/tools             |
+| ---------------------------- | ----------------------- | ---------------------- |
+**[...](...)** | Makers BnB | Ruby, Twilio, RSpec |
+
