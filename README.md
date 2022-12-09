@@ -2,7 +2,7 @@
 
 <p align="center">Hi, I'm Ollie, and welcome to my GitHub profile 👋</p>
 
-<h1 align="center"> [**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies) </h1>
+[**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
 ## About me
 
