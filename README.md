@@ -4,7 +4,7 @@
 
 [**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
-##About me
+## About me
 
 I am a recent graduate of the distinguished Software Engineering bootcamp, [Makers Academy](https://makers.tech/), and I am excited to be searching for my first role as a Software Developer. After working in the charity and education sector for a number of years, in the Summer of 2022, I made the decision to change career paths, and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing on this exciting journey. 
 
@@ -12,7 +12,7 @@ In my previous career, I worked as a Trust Fundraiser for [Ambiitous about Autis
 
 I take genuine satisfaction from thinking about and solving complex problems, owing to my academic background in Philosophy. Once I began coding, it quickly became apparent to me that there are a number of transferable skills between philosophy and programming. Fundamentally, both require the use of analytical skills and logical thinkng to solve problems, though with programming, I found there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and consider myself a compassionate and driven individual, and my hope is that I can build on the skills and knowledge I acquired at Makers at a company where I can contribute and grow as a new addition to a team of passionate Software Developers. 🧑‍💻 
 
-##Links 
+## Links 
 
 [LinkedIn](https://www.linkedin.com/in/oliver-beck-a09077115/) | [CodeWars](https://www.codewars.com/users/Ollie__B) | [CodeAcademy](https://www.codecademy.com/profiles/Ollie__B) | 2 page CV | Gmail link... | Whatsapp?
 
