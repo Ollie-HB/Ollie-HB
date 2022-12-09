@@ -20,5 +20,5 @@ I take genuine satisfaction from thinking about and solving complex problems, ow
 
 | Name                         | Description             | Tech/tools             |
 | ---------------------------- | ----------------------- | ---------------------- |
-**[...](...)** | Makers BnB | Ruby, Twilio, RSpec |
+**[...](...)** | Makers BnB | Ruby, Rspec, ActiveRecord(ORM) |
 
