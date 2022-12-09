@@ -1,9 +1,11 @@
-<p align="center"># Oliver Beck</p>
+# <p align="center">Oliver Beck</p>
 
 <p align="center">Hi, I'm Ollie, and welcome to my GitHub profile 👋</p>
 
 <p align="center">
+
 [**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
+
 </p>
 
 ## About me
