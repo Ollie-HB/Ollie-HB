@@ -1,6 +1,6 @@
-# <p align="center">Oliver Beck</p>
+# Oliver Beck
 
-### <p align="center">Hi, I'm Ollie - welcome to my GitHub profile! 👋</p>
+### Hi, I'm Ollie - welcome to my GitHub profile! 👋
 
 [**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
@@ -22,3 +22,11 @@ I take genuine satisfaction from thinking about and solving complex problems, ow
 | ---------------------------- | ----------------------- | ---------------------- |
 **[...](...)** | Makers BnB | Ruby, Rspec, ActiveRecord(ORM) |
 
+## Education
+
+Makers Academy
+
+University of Amsterdam (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
+- Awarded a Distinction for Master’s Thesis 
+
+University of Roehampton (2012 - 2015) – BA – Philosophy – (1st BA Hons)
