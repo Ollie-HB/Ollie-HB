@@ -26,15 +26,22 @@ I take genuine satisfaction from thinking about and solving complex problems, ow
 
 ## Experience
 
+
+
 ## Education
 
 Makers Academy
+- 
 
 University of Amsterdam (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
 - Awarded a Distinction for Master’s Thesis 
 
 University of Roehampton (2012 - 2015) – BA – Philosophy – (1st BA Hons)
+- Graduated with a First Class Degree and was awarded the Vice Chancellor's Scholarship for my academic achievements. 
 
 ## Hobbies
 
-
+- I'm a passionate Liverpool supporter (hailing from the Wirral), and I attened as many live games as I possibly can! 🔴 ⚽
+- I'm a keen golfer, though I'm very much a work in progress.. ⛳ 🐯
+- Travelling brings me the most joy in my spare time - some of my more interesting trips were to Japan, South Korea, Nepal, India, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
+- Healthy living and cooking are a key aspect of my day-to-day life - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃 🍴
