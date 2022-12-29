@@ -24,20 +24,33 @@ I take genuine satisfaction from thinking about and solving complex problems, ow
 
 ## Skills
 
+Client and Relationship Management
+
+Problem solving
+
+Communication skills
+
+
+
 ## Experience
 
 
 
 ## Education
 
-Makers Academy
-- 
+Makers Academy (Aug 2022 - Dec 2022) - 16 week Software Development Bootcamp
+- **Learning how to learn new languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, pick up in two weeks, giving me confidence when working with new languages going forward.
+- **Test-Driven Development:** Gained a thorough understanding of how to write strong, behaviour-focused tests and the benefits of test-driven code using the Red-Green-Refactor model.
+- **Pairing:** 
 
 University of Amsterdam (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
 - Awarded a Distinction for Master’s Thesis 
+- During my Masters, I honed my problem solving, research and critical thinking skills, with specififc focus on Temporality and Time, Philosophical Literature, Philosophy of Language and Phenomenology. 🧠
 
 University of Roehampton (2012 - 2015) – BA – Philosophy – (1st BA Hons)
 - Graduated with a First Class Degree and was awarded the Vice Chancellor's Scholarship for my academic achievements. 
+- It was during this degree that I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax that proved helpful when learning to code. 🧮
+
 
 ## Hobbies
 
