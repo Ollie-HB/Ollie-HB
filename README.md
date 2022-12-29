@@ -34,27 +34,81 @@ Communication skills
 
 ## Experience
 
+**Ambitious about Autism** (Nov 2019 - June 2022)
+*Trust Fundraiser*
 
+• Successfully managed a portfolio of small/medium trust and statutory funders.
+• Prospect researched trusts, foundations and corporates to identify income growth potential.
+• Produced high quality tailored written applications.
+• Maintained rapport with key funders – including at special events at the House of Lords.
+• Effective grant management – remaining on top of deadlines and budgets.
+
+- I was responsible for managing a large portfolio of Trust and Foundation donor relationships, ranging from smaller trusts and foundations to much larger charitable organisations. The value of my portfolio was raised each year as I exceeded my targets, eventually overseeing a donor pool that brought in approximately £100,000.
+- I wrote bespoke fundraising bids and reports for high-value clients, liaising with project delivery teams, charity staff and external Grants Managers to ensure the final product met donor's needs, showcased the fantastic work of the charity and enabled accurate and consistent reporting upon a grants conclusion.
+- Project manager for all small projects across the 3 schools in our network...
+- Managed two Prospect Research volunteers and planned their workload to achieve maximum benefit for the charity.
+- Main success the buses? raised a total of approx 200K during my time there, and assisted on succssful bids worth 6 figures 
+
+
+
+
+**Albion Primary School** (Aug 2018 – Nov 2019)
+*Special Educational Needs Support Staff*
+- Working with autistic and special needs children, assisting them socially,
+academically and emotionally in all aspects of daily school life.
+- Planned individually tailored lessons in co-ordination with the class teacher and SENCO, and conducte these lessons, focusing on speech and language development, basic
+Maths and English and empathetic and social behaviours.
+- I led group sessions for a small class of autistic children, where we practiced sharing, showing restraint and playing together, utilising a range of sensory equipment to engage the children’s attention.
+
+**Sugarman Group** (Nov 2017 – Aug 2018)
+*Classroom Assistant*
+- I worked as a one-to-one classroom assistant for an agency after completing my Masters degree. I worked with children at numerous schools with various behavioural issues and special needs. Shortly after being placed at Albion Primary School, I was hired as a full-time member of staff.
+
+**Unitemps, University of Roehampton** (Feb 2016 – Aug 2016)
+*Office Administrator*
+- I assisted Roehampton University’s Careers Department and promoted Unitemps’ services
+through creative advertising and social media drives.
+- My pitching of our Santander-partnered internship scheme to prospective clients (in live presentations and over the phone), meant that our team exceeded the previous annual record of candidate placements.
+- I was responsible for managing and updating data spreadsheets and coordinating targeted mailshots to the alumni and student database.
+- Frequently liaising with CEOs and HR departments refined my communication skills, enabling
+me to communicate effectively and professionally at all levels.
+
+**Gee & Watson Financial Advisors** (Sep 2010 – Aug 2012)
+*Office Assistant*
+- Part-time role undertaken during 6th Form.
+- I was involved in day-to-day office management, taking calls, organising meetings, referring clients to appropriate team members.
+- This position enhanced my time-keeping and organisational skills.
+
+*Volunteering*
+
+**World Literacy Foundation** (May 2019 – Nov 2019)
+*Fundraising Volunteer*
+- The World Literacy Foundation is a charity that seeks to tackle poverty domestically and
+overseas through the alleviation of child illiteracy. I volunteered every Saturday in a
+fundraising capacity.
+- Researching trusts and foundations that aligned with either our Sun Books project in Uganda or one of our UK based projects.
+- Drafting funding applications and grant proposals to raise funds
+- Planning, executing  and volunteering at events to boost the profile of the charity in the UK.
 
 ## Education
 
 Makers Academy (Aug 2022 - Dec 2022) - 16 week Software Development Bootcamp
-- **Learning how to learn new languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, pick up in two weeks, giving me confidence when working with new languages going forward.
+- **Learning how to learn new languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, which I was able to pick up within two weeks, giving me confidence when working with new languages going forward.
 - **Test-Driven Development:** Gained a thorough understanding of how to write strong, behaviour-focused tests and the benefits of test-driven code using the Red-Green-Refactor model.
-- **Pairing:** 
+- **Pair programming:** Established great working relationships with peers in daily pairing sessions, working as both 'driver' and navigator' to achieve shared goals.
+- 
 
 University of Amsterdam (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
 - Awarded a Distinction for Master’s Thesis 
-- During my Masters, I honed my problem solving, research and critical thinking skills, with specififc focus on Temporality and Time, Philosophical Literature, Philosophy of Language and Phenomenology. 🧠
+- During my Masters, I honed my problem solving, research skills, and critical thinking skills. I studied Temporality and Time, Philosophical Literature, Philosophy of Language and Phenomenology. 🧠
 
 University of Roehampton (2012 - 2015) – BA – Philosophy – (1st BA Hons)
 - Graduated with a First Class Degree and was awarded the Vice Chancellor's Scholarship for my academic achievements. 
-- It was during this degree that I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax that proved helpful when learning to code. 🧮
-
+- It was during this degree that I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax that proved helpful when learning cdoing principles. 🧮
 
 ## Hobbies
 
-- I'm a passionate Liverpool supporter (hailing from the Wirral), and I attened as many live games as I possibly can! 🔴 ⚽
+- I'm a passionate Liverpool supporter (hailing from the Wirral), and I attend as many live games as I possibly can! 🔴 ⚽
 - I'm a keen golfer, though I'm very much a work in progress.. ⛳ 🐯
 - Travelling brings me the most joy in my spare time - some of my more interesting trips were to Japan, South Korea, Nepal, India, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
-- Healthy living and cooking are a key aspect of my day-to-day life - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃 🍴
+- Healthy living and cooking are part of my day-to-day life - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃 🍴
