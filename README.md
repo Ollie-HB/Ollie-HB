@@ -43,19 +43,12 @@ Organisation Skills · Git/GitHub · TDD · Data analysis · Emotional Intellige
 **Ambitious about Autism** (Nov 2019 - June 2022)
 *Trust Fundraiser*
 
-- Responsible for managing a portfolio of around 100 Trust and Foundation donor relationships, remaiaing on top of various competitng deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually overseeing a donor pool that brought in approximately £100,000 per year.
--I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value clients. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and enabled accurate and consistent reporting upon a grants conclusion. and assisted on succssful bids worth 6 figures 
+- Responsible for managing a large portfolio of Trust and Foundation donor relationships, remaining on top of numerous competing deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually overseeing a donor pool that brought in approximately £100,000 per year.
+-I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value clients. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and enabled accurate and consistent reporting upon a grants conclusion.
 - Undertook extensive prospect reserach to identify income growth potential, which involved managing two Prospect Research volunteers, planning their workload to achieve maximum benefit for the charity.
-
-
-
-- Project manager for all small projects across the 3 schools in our network...
-
-- Main success the buses? raised a total of approx 200K during my time there, 
-
-
-
-
+- I was Project Manager for all small-to-medium sized projects across the three schools in our education network - this meant working closely with school staff, contractors and Heads of Department across fundraising and finance to ensure our projects and services ran smoothly, deadlines were met and budgets were adhered to.
+- I recieved an award for Outstanding Contribution to the charity in my first year, thanks to my successful application for two Sunshine Coach minibuses for TreeHouse School (worth £80,000+), and during my two years at the charity, I a proud to say that I raised over £225,000.
+- Data management?
 
 **Albion Primary School** (Aug 2018 – Nov 2019)
 *Special Educational Needs Support Staff*
@@ -101,7 +94,9 @@ Makers Academy (Aug 2022 - Dec 2022) - 16 week Software Development Bootcamp
 - **Learning how to learn new languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, which I was able to pick up within two weeks, giving me confidence when working with new languages going forward.
 - **Test-Driven Development:** Gained a thorough understanding of how to write strong, behaviour-focused tests and the benefits of test-driven code using the Red-Green-Refactor model.
 - **Pair programming:** Established great working relationships with peers in daily pairing sessions, working as both 'driver' and navigator' to achieve shared goals.
-- 
+
+Debugging
+OOD
 
 University of Amsterdam (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
 - Awarded a Distinction for Master’s Thesis 
