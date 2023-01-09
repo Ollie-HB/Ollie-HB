@@ -8,7 +8,7 @@
 
 I am a recent graduate of [Makers Academy](https://makers.tech/), a distinguished, 16-week Software Engineering bootcamp, and I am incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sector for a number of years, I took the daunting decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing every day. 
 
-In my previous career, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity for autistic children and young people. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that made better use of my skills. My decision to switch careers was motivated by the need to further challenge myself, utilise my problem solving skillss, and the desire to engage my creative side in a dynamic, collaborative team environment. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after writing my first few lines of code, I realised that Software Development was the career path and creative outlet I had been searching for.
+In my previous career, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting nerudiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that made better use of my skills. My decision to switch careers was motivated by the need to further challenge myself, utilise my problem solving skillss, and the desire to engage my creative side in a dynamic, collaborative team environment. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after writing my first few lines of code, I realised that Software Development was the career path and creative outlet I had been searching for.
 
 I am moitvated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent to me that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, I found there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and my hope is that I can build on the skills and knowledge I acquired at Makers at a company where I can contribute and grow as part of a team of passionate, driven developers. 🧑‍💻 
 
@@ -32,25 +32,27 @@ Problem solving
 
 Communication skills
 
+Time management and working to deadlines
+ 
+ -Agile work processes...
 
+Organisation Skills · Git/GitHub · TDD · Data analysis · Emotional Intelligence & Empathy · Creative Strategy · Attention to detail · Strong Communication Skills · Management and Leadership
 
 ## Experience
 
 **Ambitious about Autism** (Nov 2019 - June 2022)
 *Trust Fundraiser*
 
-• Successfully managed a portfolio of small/medium trust and statutory funders.
-• Prospect researched trusts, foundations and corporates to identify income growth potential.
-• Produced high quality tailored written applications.
-• Maintained rapport with key funders – including at special events at the House of Lords.
-• Effective grant management – remaining on top of deadlines and budgets.
+- Responsible for managing a portfolio of around 100 Trust and Foundation donor relationships, remaiaing on top of various competitng deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually overseeing a donor pool that brought in approximately £100,000 per year.
+-I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value clients. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and enabled accurate and consistent reporting upon a grants conclusion. and assisted on succssful bids worth 6 figures 
+- Undertook extensive prospect reserach to identify income growth potential, which involved managing two Prospect Research volunteers, planning their workload to achieve maximum benefit for the charity.
 
-- I was responsible for managing a large portfolio of Trust and Foundation donor relationships, ranging from smaller trusts and foundations to much larger charitable organisations. The value of my portfolio was raised each year as I exceeded my targets, eventually overseeing a donor pool that brought in approximately £100,000.
-- I wrote bespoke fundraising bids and reports for high-value clients, liaising with project delivery teams, charity staff and external Grants Managers to ensure the final product met donor's needs, showcased the fantastic work of the charity and enabled accurate and consistent reporting upon a grants conclusion.
+
+
 - Project manager for all small projects across the 3 schools in our network...
-- Managed two Prospect Research volunteers and planned their workload to achieve maximum benefit for the charity.
-- Main success the buses? raised a total of approx 200K during my time there, and assisted on succssful bids worth 6 figures 
--  providing support and promoting neurodiversity across the UK
+
+- Main success the buses? raised a total of approx 200K during my time there, 
+
 
 
 
