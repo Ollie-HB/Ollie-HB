@@ -6,11 +6,11 @@
 
 ## About me
 
-I am a recent graduate of [Makers Academy](https://makers.tech/), a distinguished, 16-week Software Engineering bootcamp, and I am incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sector for a number of years, I took the daunting decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing every day. 
+I am a recent graduate of [Makers Academy](https://makers.tech/), a distinguished, 16-week Software Engineering bootcamp, and I am incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sector for a number of years, I took the decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. 
 
-In my previous career, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting nerudiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that made better use of my skills. My decision to switch careers was motivated by the need to further challenge myself, utilise my problem solving skillss, and the desire to engage my creative side in a dynamic, collaborative team environment. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after writing my first few lines of code, I realised that Software Development was the career path and creative outlet I had been searching for.
+In my previous career, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that made better use of my skillset. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after writing my first few lines of code, I realised that Software Development was the career path and creative outlet I had been searching for.
 
-I am moitvated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent to me that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, I found there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and my hope is that I can build on the skills and knowledge I acquired at Makers at a company where I can contribute and grow as part of a team of passionate, driven developers. 🧑‍💻 
+I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent to me that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, I found there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and my hope is that I can build on the skills and knowledge I acquired at Makers at a company where I can contribute and grow as part of a collaborative team of passionate, driven developers. 🧑‍💻
 
 ## Links 
 
@@ -43,19 +43,16 @@ Organisation Skills · Git/GitHub · TDD · Data analysis · Emotional Intellige
 **Ambitious about Autism** (Nov 2019 - June 2022)
 *Trust Fundraiser*
 
-- Responsible for managing a large portfolio of Trust and Foundation donor relationships, remaining on top of numerous competing deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually overseeing a donor pool that brought in approximately £100,000 per year.
--I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value clients. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and enabled accurate and consistent reporting upon a grants conclusion.
+- Responsible for managing a large portfolio of Trust and Foundation donor relationships, remaining on top of numerous competing deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually overseeing a donor pool worth approximately £100,000 per year.
+-I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value clients. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and enabled accurate and consistent reporting upon a grant's conclusion.
 - Undertook extensive prospect reserach to identify income growth potential, which involved managing two Prospect Research volunteers, planning their workload to achieve maximum benefit for the charity.
 - I was Project Manager for all small-to-medium sized projects across the three schools in our education network - this meant working closely with school staff, contractors and Heads of Department across fundraising and finance to ensure our projects and services ran smoothly, deadlines were met and budgets were adhered to.
 - I recieved an award for Outstanding Contribution to the charity in my first year, thanks to my successful application for two Sunshine Coach minibuses for TreeHouse School (worth £80,000+), and during my two years at the charity, I a proud to say that I raised over £225,000.
-- Data management?
 
 **Albion Primary School** (Aug 2018 – Nov 2019)
 *Special Educational Needs Support Staff*
-- Working with autistic and special needs children, assisting them socially,
-academically and emotionally in all aspects of daily school life.
-- Planned individually tailored lessons in co-ordination with the class teacher and SENCO, and conducte these lessons, focusing on speech and language development, basic
-Maths and English and empathetic and social behaviours.
+- Working with autistic and special needs children, assisting them socially, academically and emotionally in all aspects of daily school life.
+- Planned individually tailored lessons in co-ordination with the class teacher and Special Educational Needs Coordinator, and conducted these lessons, focusing on speech and language development, basic Maths and English, and empathetic and social behaviours.
 - I led group sessions for a small class of autistic children, where we practiced sharing, showing restraint and playing together, utilising a range of sensory equipment to engage the children’s attention.
 
 **Sugarman Group** (Nov 2017 – Aug 2018)
@@ -64,12 +61,10 @@ Maths and English and empathetic and social behaviours.
 
 **Unitemps, University of Roehampton** (Feb 2016 – Aug 2016)
 *Office Administrator*
-- I assisted Roehampton University’s Careers Department and promoted Unitemps’ services
-through creative advertising and social media drives.
+- I assisted Roehampton University’s Careers Department and promoted Unitemps’ services through creative advertising and social media drives.
 - My pitching of our Santander-partnered internship scheme to prospective clients (in live presentations and over the phone), meant that our team exceeded the previous annual record of candidate placements.
 - I was responsible for managing and updating data spreadsheets and coordinating targeted mailshots to the alumni and student database.
-- Frequently liaising with CEOs and HR departments refined my communication skills, enabling
-me to communicate effectively and professionally at all levels.
+- Frequently liaising with CEOs and HR departments refined my communication skills, enabling me to communicate effectively and professionally at all levels.
 
 **Gee & Watson Financial Advisors** (Sep 2010 – Aug 2012)
 *Office Assistant*
@@ -91,24 +86,31 @@ fundraising capacity.
 ## Education
 
 Makers Academy (Aug 2022 - Dec 2022) - 16 week Software Development Bootcamp
-- **Learning how to learn new languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, which I was able to pick up within two weeks, giving me confidence when working with new languages going forward.
+- **Learning how to learn coding languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, which took only two weeks, giving me confidence when working with new languages.
 - **Test-Driven Development:** Gained a thorough understanding of how to write strong, behaviour-focused tests and the benefits of test-driven code using the Red-Green-Refactor model.
-- **Pair programming:** Established great working relationships with peers in daily pairing sessions, working as both 'driver' and navigator' to achieve shared goals.
+- **Pair programming:** Established fantastic working relationships with peers in daily pairing sessions, working as both 'driver' and navigator' to achieve shared goals.
+- **Debugging:** Learnt the importance of getting visibility when faced with an error and how to follow stack trace messages to find and fix a problem at the source.
+- **Object Oriented-Design:**
 
-Debugging
-OOD
+Object-oriented design is a way of structuring code using objects and classes. The software is created by creating a system of classes that interact to perform the job of the software.
+
+Classes are blueprints for objects, and objects encapsulate ('wrap') values ('state' or 'memory'), providing methods that control access to those values and do useful work.
+
+Structuring programs is very important because programs can get very large and hard to understand. If you don't break them down into small parts each with a particular job they become expensive and time-consuming to maintain.
+
+There are a number of approaches to structuring programs. OOD is the most popular.
 
 University of Amsterdam (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
-- Awarded a Distinction for Master’s Thesis 
+- Awarded a Distinction for Master’s Thesis.
 - During my Masters, I honed my problem solving, research skills, and critical thinking skills. I studied Temporality and Time, Philosophical Literature, Philosophy of Language and Phenomenology. 🧠
 
 University of Roehampton (2012 - 2015) – BA – Philosophy – (1st BA Hons)
 - Graduated with a First Class Degree and was awarded the Vice Chancellor's Scholarship for my academic achievements. 
-- It was during this degree that I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax that proved helpful when learning cdoing principles. 🧮
+- It was during this degree that I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax that proved helpful when learning coding principles. 🧮
 
 ## Hobbies
 
 - I'm a passionate Liverpool supporter (hailing from the Wirral), and I attend as many live games as I possibly can! 🔴 ⚽
-- I'm a keen golfer, though I'm very much a work in progress.. ⛳ 🐯
 - Travelling brings me the most joy in my spare time - some of my more interesting trips were to Japan, South Korea, Nepal, India, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
+- - I'm a keen golfer, though I'm very much a work in progress.. ⛳ 🐯
 - Healthy living and cooking are part of my day-to-day life - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃 🍴
