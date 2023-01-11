@@ -1,12 +1,10 @@
 # Oliver Beck
 
-### Hi, I'm Ollie - welcome to my GitHub profile! 👋
-
 [**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
 ## About me
 
-I am a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I am incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, in the Summer of 2022, I took the decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
+Hi, I'm Ollie - welcome to my GitHub profile! 👋 I am a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, in the Summer of 2022, I took the decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
 
 In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that was more aligned with my skillset and goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after completing my first few coding challenges, I realised that Software Development was the career path (and creative outlet) I had been searching for.
 
@@ -20,15 +18,13 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 | Name                         | Description             | Tech/tools             | Links        | Time taken / Group size    |
 | ---------------------------- | ----------------------- | ---------------------- | ------------ | -------------------------- |
-**Rat Race**|A 2-player 'Snakes and Ladders' style game with a fun Rat theme! Team project built following Agile processes, such as sprints, daily stand ups and retrospective sessions.|JavaScript, React, HTML, CSS| [Code](https://github.com/Ollie-HB/rat-race), [Gameplay recording](..)| 8 days / Team of 7|
-**Sloth's BnB**| Sloth-themed clone of Airbnb, where users can signup, login, signout, upload a place to stay (with images) and book a place to stay.|Ruby, Rspec, ActiveRecord(ORM), BCrypt, HTML, CSS, PostrgreSQL, TablePlus|[Code](https://github.com/JoeOsborne77/makersbnb-ruby-seed), [Live link](https://slothsbnb.onrender.com/)|5 days / Team of 4|
-**[...](...)** | Acebook | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus|
-**[...](...)** | Tic Tac Toe| React |
-**[...](...)** | Notes app | Javascript, Jest, HTML, CSS |
-**[...](...)** | Chitter | Ruby, SQL, RSpec, HTML, CSS, TablePlus, PostMan|
-**[...](...)** | Guardian News API | Postman |
+**Sloth's BnB**|Sloth-themed clone of Airbnb, where users can signup, login, signout, upload a place to stay (with images) and book a place to stay.|Ruby, Rspec, ActiveRecord(ORM), BCrypt, HTML, CSS, PostrgreSQL, TablePlus|[Code](https://github.com/JoeOsborne77/makersbnb-ruby-seed), [Live link](https://slothsbnb.onrender.com/)|5 days / Team of 4|
+**Rat Race**|A 2-player 'Snakes and Ladders' style game with a fun 8-bit rat theme! Team project built following Agile processes, such as sprints, daily stand ups and retros.|JavaScript, React, HTML, CSS, SweetAlert2| [Code](https://github.com/Ollie-HB/rat-race), [Live link](https://rat-race-boardgame.netlify.app/)| 8 days / Team of 7|
+**Spybook**|Superhero themed Facebook clone, building on an exisiting codebase. Users can signup with a profle picture, login, signout, post updates (with pictures and videos), comment on posts and like/unlike posts | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus| **[Code](https://github.com/kateusacova/acebook-the-incredibles)**|
 **Bank tech test**|Challenge to practice writing clean, test-driven code. Simple bank program that allows users to deposit and withdraw money from a bank account and recieve a formatted bank statement.|JavaScript, Node, Jest|[Code](https://github.com/Ollie-HB/bank-tech-test)|1/2 days / Solo challenge|
-**Gilded Rose tech test**|A challenge focused on refactoring, testing and debugging poorly written, complex code.| JavaScript, Jest|[Code](https://github.com/Ollie-HB/gilded-rose-tech-test)|1/2 days / Solo challenge|
+**Gilded Rose tech test**|A challenge focused on refactoring, testing and debugging poorly written, complex code for a fantasy shop/inventory program.| JavaScript, Jest|[Code](https://github.com/Ollie-HB/gilded-rose-tech-test)|1/2 days / Solo challenge|
+**Tic-Tac-Toe**|First project undertaken since finishign Makers. Practcicing using React and dynamic  | React |**[...](...)** | .. days / Solo project| 
+
 
 
 ## Skills
