@@ -27,8 +27,8 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 **[...](...)** | Notes app | Javascript, Jest, HTML, CSS |
 **[...](...)** | Chitter | Ruby, SQL, RSpec, HTML, CSS, TablePlus, PostMan|
 **[...](...)** | Guardian News API | Postman |
-**Bank tech test** | Solo challenge to practice writing clean, test-driven code. Simple bank program that allows users to deposit and withdraw money from a bank account and recieve a formatted bank statement. (Time taken - 1-2 days)| JavaScript, Node, Jest | [Code](https://github.com/Ollie-HB/bank-tech-test) |
-**Gilded Rose tech test** | An individual challenge focused on refactoring, testing and debugging poorly written, complex code. (Time taken - 1-2 days)| JavaScript, Jest | [Code](https://github.com/Ollie-HB/gilded-rose-tech-test) |
+**Bank tech test**|Challenge to practice writing clean, test-driven code. Simple bank program that allows users to deposit and withdraw money from a bank account and recieve a formatted bank statement.|JavaScript, Node, Jest|[Code](https://github.com/Ollie-HB/bank-tech-test)|1/2 days / Solo challenge|
+**Gilded Rose tech test**|A challenge focused on refactoring, testing and debugging poorly written, complex code.| JavaScript, Jest|[Code](https://github.com/Ollie-HB/gilded-rose-tech-test)|1/2 days / Solo challenge|
 
 
 ## Skills
