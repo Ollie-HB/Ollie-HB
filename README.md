@@ -2,9 +2,9 @@
 
 [**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
-## About me
+## About me 👋 
 
-👋 Hi, I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
+Hi, I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
 
 In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that was more aligned with my skillset and goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after completing my first few coding exercises, I realised that Software Development was the career path (and creative outlet) I had been searching for.
 
