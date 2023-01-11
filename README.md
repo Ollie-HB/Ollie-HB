@@ -20,15 +20,15 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 | Name                         | Description             | Tech/tools             | Links        |
 | ---------------------------- | ----------------------- | ---------------------- | ------------ |
-**Rat Race** | A 2-player 'Snakes and Ladders' style game with a fun Rat theme! Built in a team of 7 over an 8 day period, following Agile processes, such as sprints, daily stand ups and retrospective sessions.| JavaScript, React, HTML, CSS | **[Code](https://github.com/Ollie-HB/rat-race)** **[Gameplay recording](..)**  |
+**Rat Race** | A 2-player 'Snakes and Ladders' style game with a fun Rat theme! Built in a team of 7 over an 8 day period, following Agile processes, such as sprints, daily stand ups and retrospective sessions.| JavaScript, React, HTML, CSS | [Code](https://github.com/Ollie-HB/rat-race), [Gameplay recording](..)  |
 **[...](...)** | Makers BnB | Ruby, Rspec, ActiveRecord(ORM) |
 **[...](...)** | Acebook | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus|
 **[...](...)** | Tic Tac Toe| React |
 **[...](...)** | Notes app | Javascript, Jest, HTML, CSS |
 **[...](...)** | Chitter | Ruby, SQL, RSpec, HTML, CSS, TablePlus, PostMan|
 **[...](...)** | Guardian News API | Postman |
-**[...](...)** | Bank Tech Test| JavaScript, Jest |
-**[...](...)** | Gilded Rose Tech Test| JavaScript, Jest |
+**Bank tech test** | Solo challenge to practice writing clean, test-driven code. Simple bank program that allows users to deposit and withdraw money from a bank account and recieve a formatted bank statement. (Time taken - 1-2 days)| JavaScript, Node, Jest | [Code](https://github.com/Ollie-HB/bank-tech-test) |
+**Gilded Rose tech test** | An individual challenge focused on refactoring, testing and debugging poorly written, complex code. (Time taken - 1-2 days)| JavaScript, Jest | **[Code](https://github.com/Ollie-HB/gilded-rose-tech-test)** |
 
 
 ## Skills
