@@ -6,21 +6,21 @@
 
 ## About me
 
-I am a recent graduate of [Makers Academy](https://makers.tech/), a distinguished, 16-week Software Engineering bootcamp, and I am incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the daunting decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. 
+I am a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I am incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the daunting decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
 
-In my previous career, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that made better use of my skillset. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after writing my first few lines of code, I realised that Software Development was the career path (and creative outlet) I had been searching for.
+In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that was more aligned with my skillset and my goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after completing my first few coding challenges, I realised that Software Development was the career path (and creative outlet) I had been searching for.
 
-I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent to me that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, I found there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and my hope is that I can build on the skills and knowledge I acquired at Makers at a company where I can contribute and grow in a collaborative team of passionate, driven developers. 🧑‍💻
+I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent to me that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, I found there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and my hope is that I can build on the skills and knowledge I acquired at Makers (and independently), at a company where I can ccontinue to grow in a collaborative team of passionate, driven developers, building creative solutions to important problems. 🧑‍💻🔨
 
 ## Links 
 
-[LinkedIn](https://www.linkedin.com/in/oliver-beck-a09077115/) | [CodeWars](https://www.codewars.com/users/Ollie__B) | [CodeAcademy](https://www.codecademy.com/profiles/Ollie__B) | 2 page CV.. | [Gmail](mailto:oliver.h.beck1@gmail.com) | [Whatsapp](https://api.whatsapp.com/send?phone=447891605718)
+[LinkedIn](https://www.linkedin.com/in/oliver-beck-a09077115/) | [CodeWars](https://www.codewars.com/users/Ollie__B) | [CodeAcademy](https://www.codecademy.com/profiles/Ollie__B) | [CV PDF](...) | [Gmail](mailto:oliver.h.beck1@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=447891605718)
 
 ## Projects
 
 | Name                         | Description             | Tech/tools             |
 | ---------------------------- | ----------------------- | ---------------------- |
-**[...](...)** | Rat Race| JavaScript, React, HTML, CSS |
+**[Rat Race](https://github.com/Ollie-HB/rat-race)** | A 2-player 'Snakes and Ladders' style game with a fun Rat theme! Built in a team of 7 over an 8 day period, following Agile processes, such as sprints, daily stand ups and retrospective sessions.| JavaScript, React, HTML, CSS |
 **[...](...)** | Makers BnB | Ruby, Rspec, ActiveRecord(ORM) |
 **[...](...)** | Acebook | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus|
 **[...](...)** | Tic Tac Toe| React |
@@ -44,6 +44,31 @@ Time management and working to deadlines
  -Agile work processes...
 
 Organisation Skills · Git/GitHub · TDD · Data analysis · Emotional Intelligence & Empathy · Creative Strategy · Attention to detail · Strong Communication Skills · Management and Leadership
+
+Fast & Independent Learner
+The 4 month, intensive nature of studying at Makers ensures that all students graduate as an independent learner with the confidence and skills to embrace new technologies. The self-driven nature of the Makers course encourages all students to direct their own learning. This has given me the confidence to not only take on any technical challenge but to embrace learning new technologies. This skill has enabled me to rapidly pick up complex frameworks such as React Native and node.js, and to learn Javascript in one week. I look forward to continuing to pick up varying languages and frameworks to solve new problems within the world of programming.
+
+Problem Solving
+Makers Academy provides a focus on building internal processes within students so that no matter what the size of the problem, an analytical and solution driven process will always be followed. This has enabled me to break down larger tasks such as building an entire mobile app in a new framework or learning how to use an API for the first time into simpler, more manageable tasks.
+
+The focus on research that my degree in Sociology provided has given me a creative approach to problem solving which I believe I have transferred over to programming. Whether this was coming up with innovative ways to access and manage data or research participants, I believe my strength during this degree was an innovative and proactive approach to large problems.
+
+Teamwork
+In my previous role as a Recruitment Consultant, the structure of the team and the ways in which we work ensured that all roles that we were working on were shared equally, as well as all candidate and client responsibilities. This meant that an amicable and friendly approach to working was essential, and also a flexible approach and mindset. My degree in Sociology furthered my interest in the inner workings of a team and has helped me to better function as part of one.
+
+Furthermore, the emphasis on pair programming and team projects using Agile methodology have ensured that I am fully capable of quickly fitting in to any Software Development team.
+
+Working to Deadlines
+The client requests that I worked on in my previous role in Recruitment were usually worked to a 48 hour deadline, meaning that I became used to working in a highly pressurised, fast-paced environment. It was both our individual and collective responsibility to ensure that all deadlines were met no matter what.
+
+
+
+
+
+
+
+
+
 
 ## Experience
 
@@ -126,4 +151,4 @@ University of Roehampton (2012 - 2015) – BA – Philosophy – (1st BA Hons)
 - I'm a passionate Liverpool supporter (hailing from the Wirral), and I attend as many live games as I possibly can! 🔴 ⚽
 - Travelling brings me the most joy in my spare time - some of my more interesting trips were to Japan, South Korea, Nepal, India, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
 - I'm a keen golfer, though my game is very much a work in progress.. ⛳ 🐯
-- Healthy living and cooking are part of my day-to-day life - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃 🍴
+- Healthy living and cooking are part of my day-to-day life - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃🍴
