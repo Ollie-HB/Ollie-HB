@@ -14,7 +14,7 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 [**LinkedIn**](https://www.linkedin.com/in/oliver-beck-a09077115/) | [**CodeWars**](https://www.codewars.com/users/Ollie__B) | [**CodeAcademy**](https://www.codecademy.com/profiles/Ollie__B) | [**CV PDF**](...) | [**Gmail**](mailto:oliver.h.beck1@gmail.com) | [**WhatsApp**](https://api.whatsapp.com/send?phone=447891605718)
 
-## Projects
+## Projects 📝
 
 | Name                         | Description             | Tech/tools             | Links        | Time taken / Group size    |
 | ---------------------------- | ----------------------- | ---------------------- | ------------ | -------------------------- |
