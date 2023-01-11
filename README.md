@@ -4,13 +4,13 @@
 
 ## About me 👋 
 
-Hi, I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
+I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
 
-In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that was more aligned with my skillset and goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after completing my first few coding exercises, I realised that Software Development was the career path (and creative outlet) I had been searching for.
+In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that was more aligned with my skillset and goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after completing my first few coding exercises, I realised that Software Development was the career path (and creative outlet) I had been searching for. 🔍
 
 I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and my hope is that I can build on the skills and knowledge I acquired at Makers (and independently), at a company where I can continue to grow in a collaborative team of passionate, driven developers, building creative solutions to important problems. 🧑‍💻🔨
 
-## Links 
+## Links 🔗
 
 [**LinkedIn**](https://www.linkedin.com/in/oliver-beck-a09077115/) | [**CodeWars**](https://www.codewars.com/users/Ollie__B) | [**CodeAcademy**](https://www.codecademy.com/profiles/Ollie__B) | [**CV PDF**](...) | [**Gmail**](mailto:oliver.h.beck1@gmail.com) | [**WhatsApp**](https://api.whatsapp.com/send?phone=447891605718)
 
@@ -18,14 +18,14 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 | Name                         | Description             | Tech/tools             | Links        | Time taken / Group size    |
 | ---------------------------- | ----------------------- | ---------------------- | ------------ | -------------------------- |
-**Sloth's BnB** | Sloth-themed clone of Airbnb, where users can signup, login, signout, upload a place to stay (with images) and book a place to stay. | Ruby, Rspec, ActiveRecord(ORM), BCrypt, HTML, CSS, PostrgreSQL, TablePlus | [Code](https://github.com/JoeOsborne77/makersbnb-ruby-seed), [Live link](https://slothsbnb.onrender.com/) | One week / Team of 4 |
-**Rat Race** | A 2-player 'Snakes and Ladders' style game with a fun 8-bit rat theme! Team project built following Agile processes, such as sprints, daily stand ups and retros. | JavaScript, React, HTML, CSS, SweetAlert2 | [Code](https://github.com/Ollie-HB/rat-race), [Live link](https://rat-race-boardgame.netlify.app/) | 8 days / Team of 7 |
-**Spybook** | Superhero themed Facebook clone, building on an exisiting codebase. Users can signup with a profle picture, login, signout, post updates (with pictures and videos), comment on posts and like/unlike posts | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus | [Code](https://github.com/kateusacova/acebook-the-incredibles), [Screenshots or video??](...) | Two weeks / Team of 6 |
-**Bank tech test** | Challenge to practice writing clean, test-driven code. Simple bank program that allows users to deposit and withdraw money from a bank account and recieve a formatted bank statement. | JavaScript, Node, Jest|[Code](https://github.com/Ollie-HB/bank-tech-test) | 1-2 days / Solo challenge |
-**Gilded Rose tech test** | A challenge focused on refactoring, testing and debugging poorly written, complex code for a fantasy shop/inventory program. | JavaScript, Jest | [Code](https://github.com/Ollie-HB/gilded-rose-tech-test) | 1/2 days / Solo challenge |
+**Sloth's BnB** | Sloth-themed clone of Airbnb, where users can signup, login, signout, upload a place to stay (with images) and book a place to stay. 🦥 | Ruby, Rspec, ActiveRecord(ORM), BCrypt, HTML, CSS, PostrgreSQL, TablePlus | [Code](https://github.com/JoeOsborne77/makersbnb-ruby-seed), [Live link](https://slothsbnb.onrender.com/) | One week / Team of 4 |
+**Rat Race** | A 2-player 'Snakes and Ladders' style game with a fun 8-bit rat theme! Team project built following Agile processes, such as sprints, daily stand ups and retros. 🐀 | JavaScript, React, HTML, CSS, SweetAlert2 | [Code](https://github.com/Ollie-HB/rat-race), [Live link](https://rat-race-boardgame.netlify.app/) | 8 days / Team of 7 |
+**Spybook** | Superhero themed Facebook clone, building on an exisiting codebase. Users can signup with a profle picture, login, signout, post updates (with pictures and videos), comment on posts and like/unlike posts. 🦸 | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus | [Code](https://github.com/kateusacova/acebook-the-incredibles), [Screenshots or video??](...) | Two weeks / Team of 6 |
+**Bank tech test** | Challenge to practice writing clean, test-driven code. Simple bank program that allows users to deposit and withdraw money from a bank account and recieve a formatted bank statement. 🏦 | JavaScript, Node, Jest|[Code](https://github.com/Ollie-HB/bank-tech-test) | 1-2 days / Solo challenge |
+**Gilded Rose tech test** | A challenge focused on refactoring, testing and debugging poorly written, complex code for a fantasy shop/inventory program. 🌹 | JavaScript, Jest | [Code](https://github.com/Ollie-HB/gilded-rose-tech-test) | 1/2 days / Solo challenge |
 **Tic-Tac-Toe** | First project undertaken since finishing Makers. Practcicing using React and dynamic game states. | React | **[...](...)** | .. days / Solo project | 
 
-## Skills
+## Skills 🔧
 
 Client and Relationship Management
 
@@ -64,7 +64,7 @@ The client requests that I worked on in my previous role in Recruitment were usu
 
 
 
-## Experience
+## Experience 👔
 
 **Ambitious about Autism** (Nov 2019 - June 2022)
 *Trust Fundraiser*
@@ -109,7 +109,7 @@ fundraising capacity.
 - Drafting funding applications and grant proposals to raise funds
 - Planning, executing  and volunteering at events to boost the profile of the charity in the UK.
 
-## Education
+## Education 🧑‍🎓
 
 Makers Academy (Aug 2022 - Dec 2022) - 16 week Software Development Bootcamp
 - **Learning how to learn coding languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, which took only two weeks, giving me confidence when working with new languages.
@@ -140,7 +140,7 @@ University of Roehampton (2012 - 2015) – BA – Philosophy – (1st BA Hons)
 - Graduated with a First Class Degree and was awarded the Vice Chancellor's Scholarship for my academic achievements. 
 - It was during this degree that I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax that proved helpful when learning coding principles. 🧮
 
-## Hobbies
+## Hobbies 🎨
 
 - I'm a passionate Liverpool supporter (hailing from the Wirral), and I attend as many live games as I possibly can! 🔴 ⚽
 - Travelling brings me the most joy in my spare time - some of my more interesting trips were to Japan, South Korea, Nepal, India, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
