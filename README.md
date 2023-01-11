@@ -21,7 +21,7 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 | Name                         | Description             | Tech/tools             | Links        | Time taken / Group size    |
 | ---------------------------- | ----------------------- | ---------------------- | ------------ | -------------------------- |
 **Rat Race**|A 2-player 'Snakes and Ladders' style game with a fun Rat theme! Team project built following Agile processes, such as sprints, daily stand ups and retrospective sessions.|JavaScript, React, HTML, CSS| [Code](https://github.com/Ollie-HB/rat-race), [Gameplay recording](..)| 8 days / Team of 7|
-**Sloth's BnB**| Sloth-themed clone of Airbnb, where users can signup, login, signout, upload a place to stay (with images) and book a place to stay.|Ruby, Rspec, ActiveRecord(ORM), BCrypt, HTML, CSS, PostrgreSQL, TablePlus|**[Code](https://github.com/JoeOsborne77/makersbnb-ruby-seed)**|5 days / Team of 4|
+**Sloth's BnB**| Sloth-themed clone of Airbnb, where users can signup, login, signout, upload a place to stay (with images) and book a place to stay.|Ruby, Rspec, ActiveRecord(ORM), BCrypt, HTML, CSS, PostrgreSQL, TablePlus|[Code](https://github.com/JoeOsborne77/makersbnb-ruby-seed), [Live link](https://slothsbnb.onrender.com/)|5 days / Team of 4|
 **[...](...)** | Acebook | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus|
 **[...](...)** | Tic Tac Toe| React |
 **[...](...)** | Notes app | Javascript, Jest, HTML, CSS |
