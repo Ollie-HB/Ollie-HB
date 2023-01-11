@@ -6,11 +6,11 @@
 
 ## About me
 
-I am a recent graduate of [Makers Academy](https://makers.tech/), a distinguished, 16-week Software Engineering bootcamp, and I am incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sector for a number of years, I took the decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. 
+I am a recent graduate of [Makers Academy](https://makers.tech/), a distinguished, 16-week Software Engineering bootcamp, and I am incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the daunting decision to change careers and pursue a new challenge in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. 
 
-In my previous career, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that made better use of my skillset. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after writing my first few lines of code, I realised that Software Development was the career path and creative outlet I had been searching for.
+In my previous career, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that made better use of my skillset. I am inquistive by nature, and have always been intrigued by technology and how things work, which is what first led me towards coding - shortly after writing my first few lines of code, I realised that Software Development was the career path (and creative outlet) I had been searching for.
 
-I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent to me that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, I found there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and my hope is that I can build on the skills and knowledge I acquired at Makers at a company where I can contribute and grow as part of a collaborative team of passionate, driven developers. 🧑‍💻
+I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent to me that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, I found there is far greater scope to apply these skills in a creative and practical manner. I truly love to learn, and my hope is that I can build on the skills and knowledge I acquired at Makers at a company where I can contribute and grow in a collaborative team of passionate, driven developers. 🧑‍💻
 
 ## Links 
 
@@ -20,9 +20,16 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 | Name                         | Description             | Tech/tools             |
 | ---------------------------- | ----------------------- | ---------------------- |
+**[...](...)** | Rat Race| JavaScript, React, HTML, CSS |
 **[...](...)** | Makers BnB | Ruby, Rspec, ActiveRecord(ORM) |
-**[...](...)** | Makers BnB | Ruby, Rspec, ActiveRecord(ORM) |
-**[...](...)** | Makers BnB | Ruby, Rspec, ActiveRecord(ORM) |
+**[...](...)** | Acebook | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus|
+**[...](...)** | Tic Tac Toe| React |
+**[...](...)** | Notes app | Javascript, Jest, HTML, CSS |
+**[...](...)** | Chitter | Ruby, SQL, RSpec, HTML, CSS, TablePlus, PostMan|
+**[...](...)** | Guardian News API | Postman |
+**[...](...)** | Bank Tech Test| JavaScript, Jest |
+**[...](...)** | Gilded Rose Tech Test| JavaScript, Jest |
+
 
 ## Skills
 
@@ -100,6 +107,12 @@ Structuring programs is very important because programs can get very large and h
 
 There are a number of approaches to structuring programs. OOD is the most popular.
 
+I use an agile product development process
+
+
+
+
+
 University of Amsterdam (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
 - Awarded a Distinction for Master’s Thesis.
 - During my Masters, I honed my problem solving, research skills, and critical thinking skills. I studied Temporality and Time, Philosophical Literature, Philosophy of Language and Phenomenology. 🧠
@@ -112,5 +125,5 @@ University of Roehampton (2012 - 2015) – BA – Philosophy – (1st BA Hons)
 
 - I'm a passionate Liverpool supporter (hailing from the Wirral), and I attend as many live games as I possibly can! 🔴 ⚽
 - Travelling brings me the most joy in my spare time - some of my more interesting trips were to Japan, South Korea, Nepal, India, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
-- - I'm a keen golfer, though I'm very much a work in progress.. ⛳ 🐯
+- I'm a keen golfer, though my game is very much a work in progress.. ⛳ 🐯
 - Healthy living and cooking are part of my day-to-day life - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃 🍴
