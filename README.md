@@ -109,7 +109,7 @@ fundraising capacity.
 - Drafting funding applications and grant proposals to raise funds
 - Planning, executing  and volunteering at events to boost the profile of the charity in the UK.
 
-## Education 🧑‍🎓
+## Education 🎓
 
 Makers Academy (Aug 2022 - Dec 2022) - 16 week Software Development Bootcamp
 - **Learning how to learn coding languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, which took only two weeks, giving me confidence when working with new languages.
