@@ -18,9 +18,9 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 ## Projects
 
-| Name                         | Description             | Tech/tools             |
+| Name                         | Description             | Tech/tools             | Links        |
 | ---------------------------- | ----------------------- | ---------------------- |
-**[Rat Race](https://github.com/Ollie-HB/rat-race)** | A 2-player 'Snakes and Ladders' style game with a fun Rat theme! Built in a team of 7 over an 8 day period, following Agile processes, such as sprints, daily stand ups and retrospective sessions.| JavaScript, React, HTML, CSS |
+**Rat Race** | A 2-player 'Snakes and Ladders' style game with a fun Rat theme! Built in a team of 7 over an 8 day period, following Agile processes, such as sprints, daily stand ups and retrospective sessions.| JavaScript, React, HTML, CSS | **[Code](https://github.com/Ollie-HB/rat-race)** **[Gameplay recording](..)**  |
 **[...](...)** | Makers BnB | Ruby, Rspec, ActiveRecord(ORM) |
 **[...](...)** | Acebook | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus|
 **[...](...)** | Tic Tac Toe| React |
