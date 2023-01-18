@@ -29,23 +29,16 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 #### Communication skills
 
-In previous roles, I have utilised my communication skills across a range of audiences. At Ambitious about Autism, I led meetings and delivered presentations to influential donors, with a view to securing donations. These conversations required confidence, tact, and most importantly, listening skills, to understand what the donor wants and expects from a charity partnership. These meetings resulted in a number of five-figure donations, most notably, the renewal of multi-year funding worth £20,000 annually. Equally, when working in graduate recruitment, I delivered presentations selling our internship programme to audiences comprised of CEO's and business owners, which created new business and potential opportunities for our candidates. Working with autistic children also required incredibly clear and considered communication, not only with the children, but also when navigating difficult discussions with parents, which further enhanced my ability to listen and communicate empathetically.
+In previous roles, I have utilised my communication skills across a range of audiences. At Ambitious about Autism, I led meetings and delivered presentations to influential donors, with a view to securing donations. These conversations required confidence, tact, and most importantly, listening skills, to understand what a donor wants and expects from a charity partnership. These meetings resulted in a number of five-figure donations, most notably, the renewal of multi-year funding worth £20,000 annually. Equally, when working in graduate recruitment, I delivered presentations selling our internship programme to audiences comprised of CEO's and business owners, which created new business and potential opportunities for our candidates. Working with autistic children required incredibly clear and considered communication, not only with the children, but also when navigating difficult discussions with parents, which further enhanced my ability to listen and communicate empathetically.
 
-As a developer, I have drawn upon my communication skills with great success, both during pair-programming sessions and in team projects. Daily pairing meant that I worked with people who were ahead of me and behind me in their coding journies, which meant frank and honest communication was required, both to ask questions and to take on a more instructive role. I enjoyed taking on leadership in team projects, running stand-ups and retros, overseeing ticket allocation and fostering an open environment where all team members feel confident to share their ideas and opinions. Furthermore, the emphasis on working collaboratively using Agile methodologies has ensured that I am fully capable of quickly fitting in to any Software Development team.
+As a developer, I have drawn upon my communication skills with great success, both during pair-programming sessions and in team projects. Daily pairing meant that I worked with people who were ahead of me and behind me in their coding journies, which meant frank and honest communication was required, both to ask questions and to take on a more instructive role. I enjoyed taking on a leadership position in team projects, running stand-ups and retros, overseeing ticket allocation and fostering an open environment where all team members felt confident to share their ideas and opinions. Furthermore, the emphasis on working collaboratively using Agile methodologies has ensured that I am fully capable of quickly fitting in to any Software Development team.
 
 #### Problem solving
 
-The focus on analytical thinking and research that my degrees in Philosophy provided has given me a creatve approach to problem solving which I believe has transferred over to programming. I am comfortable breaking a problem down to its core component parts, and following a solution driven process
+Thanks to my background in academic philosophy, I have experience in breaking down complex problems into smaller component parts and applying analytical thinking, logic and research to find creative solutions, a skill that I have now transferred to programming. This process has proved invaluable in my working life, where I have developed a keen eye for spotting problems and coming up with solutions that save time, streamline systems and improve the function of my own role. When working at the charity, I was keen to improve upon our prospect research system, which was sub-optimal, as new leads were not being followed up in a consitent manner. I introduced a new system for capturing new prospects in a shared spreadsheet, with reminders being set up in our CRM for each team member to contact their allocated prospects, and feedback the outcome of each follow-up in a streamlined, half-hour meeting. This resulted in more responses from newly established trusts, more data captured in the system, and less time wasted throughout the team.
 
-ensured that we met the given Minimal Viable Product (MVP) 
+At Makers, I further improved upon my problem solving by implementing their taught processes for tackling coding problems, using TDD methodology and step-by-step learning techniques to ensure no matter the size of a problem, an analytical and solution driven process will always be followed. This has enabled me to break down larger tasks such as building a dyanmic web-game in React, or learning how to comunciate with API's into simpler, more manageable tasks. My enjoyment of solving these problems is one of my main drivers to continue to learn about software.
  
-
-When working at the chairty, I was always keen to innovate upin meetings, reserach styles and fundraising techniques - looking at a problem as a whole and considering ways in whicbwe could streamline our processes.
-
-Makers Academy has processes within students so that no matter what the size of the problem, an analytical and solution driven process will always be followed. This has enabled me to break down larger tasks such as building an entire mobile app in a new framework or learning how to use an API for the first time into simpler, more manageable tasks.
-
- Programs are built to solve a problem. To build a program, a set of problems and errors must be overcome. My enjoyment of solving these problems is one of my main drivers to continue to learn about software.
- TDD.
 
 
 
@@ -80,6 +73,10 @@ Time management and working to deadlines
  
  Working to Deadlines
 The client requests that I worked on in my previous role in Recruitment were usually worked to a 48 hour deadline, meaning that I became used to working in a highly pressurised, fast-paced environment. It was both our individual and collective responsibility to ensure that all deadlines were met no matter what.
+
+TDD.
+ 
+ ensured that we met the given Minimal Viable Product (MVP) 
 
 
 Organisation Skills · Git/GitHub · TDD · Data analysis · Emotional Intelligence & Empathy · Creative Strategy · Attention to detail · Strong Communication Skills · Management and Leadership
