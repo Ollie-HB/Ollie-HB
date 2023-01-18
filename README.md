@@ -25,7 +25,7 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 **Gilded Rose tech test** | A challenge focused on refactoring, testing and debugging poorly written, complex code for a fantasy shop/inventory program. 🌹 | JavaScript, Jest | [Code](https://github.com/Ollie-HB/gilded-rose-tech-test) | 1/2 days / Solo challenge |
 **Tic-Tac-Toe** | First project undertaken since finishing the Makers course. Practicing using React and working with game logic. | React | **[...](...)** | .. days / Solo project | 
 
-## Skills
+🔧 ## Skills
 
 - Problem solving
 Makers Academy has processes within students so that no matter what the size of the problem, an analytical and solution driven process will always be followed. This has enabled me to break down larger tasks such as building an entire mobile app in a new framework or learning how to use an API for the first time into simpler, more manageable tasks.
