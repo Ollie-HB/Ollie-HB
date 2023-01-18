@@ -8,7 +8,7 @@ I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly
 
 In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that better aligned with my skillset and personal goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which first led me towards coding - shortly after completing my first few coding exercises, I realised that Software Development was the career path (and creative outlet) I had been searching for. 🔍
 
-I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, there is far greater scope to apply these skills practically. I truly love to learn, and I plan to build on the skills and knowledge I acquired at Makers (and independently), at a company where I can continue to grow in a collaborative team of passionate, driven developers, building creative solutions to important problems. 🧑‍💻🔨
+I truly love to learn, and I plan to build on the skills and knowledge I acquired at Makers (and independently), at a company where I can continue to grow in a collaborative team of passionate, driven developers, building creative solutions to important problems. 🧑‍💻🔨
 
 ## Links
 
@@ -31,40 +31,29 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 In previous roles, I have utilised my communication skills across a range of audiences. At Ambitious about Autism, I led meetings and delivered presentations to influential donors, with a view to securing donations. These conversations required confidence, tact, and most importantly, listening skills, to understand what a donor wants and expects from a charity partnership. These meetings resulted in a number of five-figure donations, most notably, the renewal of multi-year funding worth £20,000 annually. Equally, when working in graduate recruitment, I delivered presentations selling our internship programme to audiences comprised of CEO's and business owners, which created new business and potential opportunities for our candidates. Working with autistic children required incredibly clear and considered communication, not only with the children, but also when navigating difficult discussions with parents, which further enhanced my ability to listen and communicate empathetically.
 
-As a developer, I have drawn upon my communication skills with great success. Daily pairing sessions meant that I worked with people who were ahead of me and behind me in their coding journies, which called for frank and honest communication, both to ask questions and when taking on a more instructive role. I enjoyed taking on a leadership position in team projects, running stand-ups and retros, overseeing ticket allocation and fostering an open environment where all team members felt confident to share their ideas and opinions. Furthermore, the emphasis on working using Agile methodologies has ensured that I am fully capable of quickly fitting in to any Software Development team.
+At Makers, daily pairing sessions meant that I worked with people who were ahead of me and behind me in their coding journeys, which called for frank and honest communication, both to ask questions and when taking on a more instructive role. I enjoyed taking on a leadership position in team projects, running stand-ups and retros, overseeing ticket allocation and fostering an open environment where all team members felt confident to share their ideas and opinions. Furthermore, the emphasis on working using Agile methodologies has ensured that I am fully capable of quickly fitting in to any Software Development team.
 
 #### Problem solving
 
-Thanks to my background in academic philosophy, I have experience in breaking down complex problems into smaller component parts and applying analytical thinking, logic and research to find creative solutions, a skill that I have now transferred to programming. This process has proved invaluable in my working life, where I have developed a keen eye for spotting problems and coming up with solutions that save time, streamline systems and improve the function of my own role. When working at the charity, I was keen to improve upon our prospect research system, which was sub-optimal, as new leads were not being followed up in a consitent manner. I introduced a new system for capturing new prospects in a shared spreadsheet, with reminders being set up in our CRM for each team member to contact their allocated prospects, and feedback the outcome of each follow-up in a streamlined, half-hour meeting. This resulted in more responses from newly established trusts, more data captured in the system, and less time wasted throughout the team.
+I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, there is far greater scope to apply these skills practically. 
 
-At Makers, I further improved upon my problem solving by implementing their taught processes for tackling coding problems, using TDD methodology and step-by-step learning techniques to ensure no matter the size of a problem, an analytical and solution driven process will always be followed. This has enabled me to break down larger tasks such as building a dyanmic web-game in React, or learning how to comunciate with API's into simpler, more manageable tasks. My enjoyment of solving these problems is one of my main drivers to continue to learn about software.
- 
+In my working life, I developed a keen eye for spotting problems and coming up with solutions that save time, streamline systems and improve the function of my own role. In my last role, I was keen to improve upon our prospect research system, as new leads were not being followed up in a consitent manner. I introduced a new system for capturing new prospects in a shared spreadsheet, with reminders being set up in our CRM for each team member to contact their allocated prospects, and feedback the outcome of each follow-up in a streamlined, half-hour meeting. This resulted in more responses from newly established trusts, more data captured in the system, and less time wasted through the team.
 
+As a developer, I have further improved upon my problem solving by implementing Makers' processes for tackling coding problems, using TDD methodology and step-by-step learning techniques to ensure no matter the size of a problem, following an analytical and solution driven process will result in success. This enabled me to break down larger tasks such as building a dyanmic web-game in React, or learning how to communciate with API's into simpler, more manageable tasks.
 
+#### Client and Relationship Management
 
+I have a strong track record for working Discenr and unpick their needs, all bult on steady communication and making myself invaluable to their experience with the compnay. Foestring relationhsips, ad hoc communication - being able to listen?
 
+This has been demonstrated in my Bank tech test feedback, where I was able to draw out what the 'client' wanted, and deliver a product that matched their needs - my reveiwer commented "I am absolutely delighted to review this submission. You have excellent code, tests, documentation, evaluation." I also demonstrated the ability to discern and deliver on client needs in my Reviews, where I had the feedback "
 
-
-
-
-
-
-
+You were asking relevant questions which meant that you were able to clarify the main requirements of the program relatively quickly and you were able to flesh out a really good input-output table with your own examples for test cases. This was great as you were able to have a good place to keep track of the requirements that needed to be met and could just simply copy and paste the inputs and outputs into your tests.
 
 
+You began your information-gathering by first noting down the client brief and the acceptance criteria of the programme. This top-down approach results in a better understanding of the core system that the client expects.
 
+Your representation of the requirements of the system and questioning was sufficiently concise. You represented the requirements as acceptance criteria using an input-output table. This is an unambiguous representation of the system and allows you to explore the finer details of the programme's expected behaviour as well as potential edge cases.
 
-
-
-
-
-
-
-Client and Relationship Management
-
-Discenr and unpick their needs, all bult on steady communication and making myself invaluable to their experience with the compnay. Foestring relationhsips, ad hoc communication - being able to listen?
-
-Tech tests / reviews
 
 
 Time management and working to deadlines
