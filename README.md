@@ -2,7 +2,7 @@
 
 [**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
-## About me 👋 
+## About me :mushroom:
 
 I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision pursue a new challenge in the form of a career in Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
 
