@@ -27,20 +27,23 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 
 ## Skills
 
-- Communication skills
+#### Communication skills
 
 In previous roles, I have utilised my communication skills across a range of audiences. At Ambitious about Autism, I led meetings and delivered presentations to influential donors, with a view to securing donations. These conversations required confidence, tact, and most importantly, listening skills, to understand what the donor wants and expects from a charity partnership. These meetings resulted in a number of five-figure donations, most notably, the renewal of multi-year funding worth £20,000 annually. Equally, when working in graduate recruitment, I delivered presentations selling our internship programme to audiences comprised of CEO's and business owners, which created new business and potential opportunities for our candidates. Working with autistic children required incredibly clear and considered communication, not only with the children, but also when navigating difficult discussions with parents, which further enhanced my ability to listen and communicate empathetically.
 
 As a developer, I have drawn upon my communication skills with great success, both during pair-programming sessions and in team projects. I enjoyed taking on a leadership role in team projects, running stand-ups and retros, overseeing ticket allocation and fostering an open, safe environment where all team members feel confident to share their ideas and opinions. Furthermore, the emphasis on working collaboratively using Agile methodologies has ensured that I am fully capable of quickly fitting in to any Software Development team.
 
+#### Problem solving
 
-- Problem solving
+
+
+The focus on analytical thinking and research that my degree in Philosophy provided has given me a creative approach to problem solving which I believe has transferred over to programming. reaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
+
+When working at the chairty, I was always keen to innovate upin meetings, reserach styles and fundraising techniques - looking at a problem as a whole and considering ways in whicbwe could streamline our processes.
 
 Makers Academy has processes within students so that no matter what the size of the problem, an analytical and solution driven process will always be followed. This has enabled me to break down larger tasks such as building an entire mobile app in a new framework or learning how to use an API for the first time into simpler, more manageable tasks.
 
-The focus on research that my degree in Philosophy provided has given me a creative approach to problem solving which I believe I have transferred over to programming. Whether this was coming up with innovative ways to access and manage data or research participants, I believe my strength during this degree was an innovative and proactive approach to large problems.
-
-
+ TDD.
 
 
 
