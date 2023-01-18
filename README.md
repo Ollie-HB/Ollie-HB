@@ -25,7 +25,7 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 **Gilded Rose tech test** | A challenge focused on refactoring, testing and debugging poorly written, complex code for a fantasy shop/inventory program. 🌹 | JavaScript, Jest | [Code](https://github.com/Ollie-HB/gilded-rose-tech-test) | 1/2 days / Solo challenge |
 **Tic-Tac-Toe** | First project undertaken since finishing the Makers course. Practicing using React and working with game logic. | React | **[...](...)** | .. days / Solo project | 
 
-## Skills 🔧
+## Skills ## 🔧
 
 - Problem solving
 Makers Academy has processes within students so that no matter what the size of the problem, an analytical and solution driven process will always be followed. This has enabled me to break down larger tasks such as building an entire mobile app in a new framework or learning how to use an API for the first time into simpler, more manageable tasks.
@@ -39,11 +39,18 @@ The focus on research that my degree in Philosophy provided has given me a creat
 
 
 
-
-
 Communication skills
 
+In previous roles, I have applied my communication skills in a number of different ways, leading meetings with high-net worth individuals and CEO's, as well as navigating more complex, sensitive discussions with parents of children with Special Educational Needs. At Ambitious about Autism, I led numerous meetings with influential donors and their representatives, presenting the work of the charity and demonstrating the differenc ethier contribution could make, often resulting in five-figure donations for the charity. 
+In my role working directly with autistic children, I had to be incredibly clear in my comunication,a dn also navigate often difficult discussions with parents, which strengthened my empathetic communicaion skills etc.
+As a developer, during my time at Makers - maiing sur eevry voice is head when I;m a leader, and being able to speak up if I had an idea.. The whole cding experienc ewas enhance d by communciating effectively with peers and creating an environment of openness and tolerance, particuallry in a filed wherw we are all a bit unsure ..
+
+
+
 Client and Relationship Management
+
+Discenr and unpick their needs, all bult on steady communication and making myself invaluable to their experience with the compnay. Foestring relationhsips, ad hoc communication - being able to listen?
+
 
 Time management and working to deadlines
  
@@ -51,9 +58,10 @@ Time management and working to deadlines
 
 Organisation Skills · Git/GitHub · TDD · Data analysis · Emotional Intelligence & Empathy · Creative Strategy · Attention to detail · Strong Communication Skills · Management and Leadership
 
-Fast & Independent Learner
+Fast Learner
 The 4 month, intensive nature of studying at Makers ensures that all students graduate as an independent learner with the confidence and skills to embrace new technologies. The self-driven nature of the Makers course encourages all students to direct their own learning. This has given me the confidence to not only take on any technical challenge but to embrace learning new technologies. This skill has enabled me to rapidly pick up complex frameworks such as React Native and node.js, and to learn Javascript in one week. I look forward to continuing to pick up varying languages and frameworks to solve new problems within the world of programming.
 
+Passion
 
 Teamwork
 In my previous role as a Recruitment Consultant, the structure of the team and the ways in which we work ensured that all roles that we were working on were shared equally, as well as all candidate and client responsibilities. This meant that an amicable and friendly approach to working was essential, and also a flexible approach and mindset. My degree in Sociology furthered my interest in the inner workings of a team and has helped me to better function as part of one.
@@ -77,11 +85,11 @@ The client requests that I worked on in my previous role in Recruitment were usu
 **Ambitious about Autism** (Nov 2019 - June 2022)
 *Trust Fundraiser*
 
-- Responsible for managing a large portfolio of Trust and Foundation donor relationships and remaining on top of numerous competing deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually reaching a value of approximately £100,000 per year.
--I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value clients. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and enabled accurate and consistent reporting.
+- Responsible for managing a large portfolio of donor relationships and remaining on top of numerous competing application deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually reaching a value of approximately £100,000 per year.
+-I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value clients. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and enabled accurate reporting.
 - Undertook extensive prospect reserach to identify income growth potential, which involved managing two Prospect Research volunteers.
-- I was Project Manager for projects across the three schools in our education network - this meant working closely with school staff, contractors and Heads of Department across fundraising and finance to ensure our projects and services ran smoothly, deadlines were met and budgets were adhered to.
-- I recieved an award for Outstanding Contribution to the charity in my first year, thanks to my successful application for two minibuses (worth £80,000+). During my two years at the charity, I a proud to say that individually, I raised over £225,000.
+- Project Management responsibilities for all projects across the three schools in our education network - this meant working closely with school staff, contractors and Heads of Department across fundraising and finance to ensure our projects and services ran smoothly, deadlines were met and budgets were adhered to.
+- I recieved an award for Outstanding Contribution to the charity in my first year, thanks to my successful application for two minibuses (worth £80,000+). During my two years at the charity, I a proud to say that I raised over £225,000.
 
 **World Literacy Foundation** (May 2019 – Nov 2019)
 *Fundraising Volunteer (every Saturday)*
@@ -118,22 +126,11 @@ The client requests that I worked on in my previous role in Recruitment were usu
 - **Learning how to learn coding languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, which took only two weeks, giving me confidence when working with new languages.
 - **Test-Driven Development:** Gained a thorough understanding of how to write strong, behaviour-focused tests and the benefits of test-driven code using the Red-Green-Refactor model.
 - **Pair programming:** Established fantastic working relationships with peers in daily pairing sessions, working as both 'driver' and navigator' to achieve shared goals.
-- **Debugging:** Learnt the importance of getting visibility when faced with an error and how to follow stack trace messages to find and fix a problem at the source.
-- **Object Oriented-Design:**
-
-Object-oriented design is a way of structuring code using objects and classes. The software is created by creating a system of classes that interact to perform the job of the software.
-
-Classes are blueprints for objects, and objects encapsulate ('wrap') values ('state' or 'memory'), providing methods that control access to those values and do useful work.
-
-Structuring programs is very important because programs can get very large and hard to understand. If you don't break them down into small parts each with a particular job they become expensive and time-consuming to maintain.
-
-There are a number of approaches to structuring programs. OOD is the most popular.
-
-I use an agile product development process
-
-
-
-
+- **Debugging:** Learned the importance of getting visibility when faced with an error and how to follow stack trace messages to find and fix a problem at the source.
+- **Object Oriented-Design:** Can develop and structure applications using objects and classes, having learned how to split a program into smaller, manageable chunks of DRY code.
+- **Databases:** Worked with PostgreSQL, ActiveRecord (ORM), MongoDB and TablePlus to build programs that store data and perform CRUD operations.
+- **API's:** Used GET and POST requests to API's for a number of projects throughout the course, using Postman and testing to deepen my understanding of data transferral.
+- **Agile workflow:** Followed Agile development processes to build projects as part of a team, complimented by various technologies; detailed planning (Excalidraw), tickets (Trello), sprints, retros (Miro), daily standups and iterative development.
 
 **University of Amsterdam** (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
 - Awarded a Distinction for Master’s Thesis.
@@ -145,7 +142,8 @@ I use an agile product development process
 
 ## Hobbies 🎨
 
-- I'm a passionate Liverpool supporter (hailing from the Wirral), and I attend as many live games as I possibly can! 🔴 ⚽
-- Travelling brings me the most joy in my spare time - some of my more interesting trips were to Japan, South Korea, Nepal, India, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
-- I'm a keen golfer, though my game is very much a work in progress.. ⛳ 🐯
-- Healthy living and cooking are part of my day-to-day life - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃🍴
+- Passionate Liverpool supporter (hailing from the Wirral), attending as many live games as possible! 🔴 ⚽
+- Travelling and experiencing new cultures is my favourite thing to do - some of my more interesting trips were to Japan, South Korea, Nepal, India, Russia, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
+- Keen golfer, though my game is very much a work in progress.. ⛳ 🐯
+- Snapping portraits of friends and capturing natural beauty on my 35mm film cameras. 📷 🎞️
+- Healthy living and cooking - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃🍴
