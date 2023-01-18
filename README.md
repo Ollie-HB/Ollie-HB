@@ -2,22 +2,19 @@
 
 [**About me**](#about-me) | [**Links**](#links) | [**Projects**](#projects) | [**Skills**](#skills) | [**Experience**](#experience) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
-## About me 
-👋 
+## About me 👋 
 
-I'm Ollie, a recent graduate (December 22) of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision pursue a new challenge and change careers to Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
+I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision pursue a new challenge in the form of a career in Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
 
-In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that was more aligned with my skillset and personal goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which first led me towards coding - shortly after completing my first few coding exercises, I realised that Software Development was the career path (and creative outlet) I had been searching for. 🔍
+In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that better aligned with my skillset and personal goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which first led me towards coding - shortly after completing my first few coding exercises, I realised that Software Development was the career path (and creative outlet) I had been searching for. 🔍
 
 I am motivated by thinking through and solving complex problems, owing to my academic background in Philosophy. It quickly became apparent that there are a number of transferable skills between philosophical thinking and programming. Fundamentally, both require the use of analytical skills and logic to solve problems, though with programming, there is far greater scope to apply these skills practically. I truly love to learn, and I plan to build on the skills and knowledge I acquired at Makers (and independently), at a company where I can continue to grow in a collaborative team of passionate, driven developers, building creative solutions to important problems. 🧑‍💻🔨
 
-## Links 
-🔗
+## Links 🔗
 
 [**LinkedIn**](https://www.linkedin.com/in/oliver-beck-a09077115/) | [**CodeWars**](https://www.codewars.com/users/Ollie__B) | [**CodeAcademy**](https://www.codecademy.com/profiles/Ollie__B) | [**CV PDF**](...) | [**Gmail**](mailto:oliver.h.beck1@gmail.com) | [**WhatsApp**](https://api.whatsapp.com/send?phone=447891605718)
 
-## Projects 
-📝
+## Projects 📝
 
 | Name                         | Description             | Tech/tools             | Links        | Time taken / Group size    |
 | ---------------------------- | ----------------------- | ---------------------- | ------------ | -------------------------- |
@@ -28,8 +25,7 @@ I am motivated by thinking through and solving complex problems, owing to my aca
 **Gilded Rose tech test** | A challenge focused on refactoring, testing and debugging poorly written, complex code for a fantasy shop/inventory program. 🌹 | JavaScript, Jest | [Code](https://github.com/Ollie-HB/gilded-rose-tech-test) | 1/2 days / Solo challenge |
 **Tic-Tac-Toe** | First project undertaken since finishing the Makers course. Practicing using React and working with game logic. | React | **[...](...)** | .. days / Solo project | 
 
-## Skills 
-🔧
+## Skills 🔧
 
 - Problem solving
 Makers Academy has processes within students so that no matter what the size of the problem, an analytical and solution driven process will always be followed. This has enabled me to break down larger tasks such as building an entire mobile app in a new framework or learning how to use an API for the first time into simpler, more manageable tasks.
@@ -43,17 +39,32 @@ The focus on research that my degree in Philosophy provided has given me a creat
 
 
 
+
+
 Communication skills
 
-In previous roles, I have applied my communication skills in a number of different ways, leading meetings with high-net worth individuals and CEO's, as well as navigating more complex, sensitive discussions with parents of children with Special Educational Needs. At Ambitious about Autism, I led numerous meetings with influential donors and their representatives, presenting the work of the charity and demonstrating the differenc ethier contribution could make, often resulting in five-figure donations for the charity. 
-In my role working directly with autistic children, I had to be incredibly clear in my comunication,a dn also navigate often difficult discussions with parents, which strengthened my empathetic communicaion skills etc.
-As a developer, during my time at Makers - maiing sur eevry voice is head when I;m a leader, and being able to speak up if I had an idea.. The whole cding experienc ewas enhance d by communciating effectively with peers and creating an environment of openness and tolerance, particuallry in a filed wherw we are all a bit unsure ..
+In previous roles, I have utilised my communication skills across a range of different audiences. At Ambitious about Autism, I led meetings and delivered presentations to influential donors, with a view to securing a donation. These conversations required confidence, tact, and most importantly, listening skills, to understand what the donor wants and expects from a charity partenrship. These meetings resulted in a number of five-figure donations, as well as the renewal of a parternship worth £20,000 per year. Equally, when working in graduate recruitment, I delivered slideshow presentations to audiences, 'selling' our internship programme to CEO's of small-to-medium sized businesses, which created dozens of new opportunities for our candidates. When working at schools with autistic children, I had to be incredibly clear and considered in my communication, not only with the children, but also when navigating difficult discussions with parents, which further enhanced my ability to listen and communicate empathetically.
+
+As a developer, I drew upon my empathetic communication skills when pairing and working on team projects. When taking on a leadership role
+
+maiing sur eevry voice is head when I;m a leader, and being able to speak up if I had an idea.. The whole cding experienc ewas enhance d by communciating effectively with peers and creating an environment of openness and tolerance, particuallry in a filed wherw we are all a bit unsure ..
+
+
+
+
+
+
+
 
 
 
 Client and Relationship Management
 
 Discenr and unpick their needs, all bult on steady communication and making myself invaluable to their experience with the compnay. Foestring relationhsips, ad hoc communication - being able to listen?
+
+Tech tests / reviews
+
+
 
 
 Time management and working to deadlines
@@ -84,8 +95,7 @@ The client requests that I worked on in my previous role in Recruitment were usu
 
 
 
-## Experience 
-👔
+## Experience 👔
 
 **Ambitious about Autism** (Nov 2019 - June 2022)
 *Trust Fundraiser*
@@ -125,8 +135,7 @@ The client requests that I worked on in my previous role in Recruitment were usu
 - I was involved in day-to-day office management, taking calls, organising meetings, referring clients to appropriate team members.
 - This position enhanced my time-keeping and organisational skills.
 
-## Education 
-🎓
+## Education 🎓
 
 **Makers Academy** (Aug 2022 - Dec 2022) - 16-week Software Development Bootcamp
 - **Learning how to learn coding languages:** Makers doesn't simply teach one coding language; instead, the focus is on developing the necessary skills for picking up and adapting to new coding languages. After working in Ruby for 10 weeks, I was able to apply the concepts we'd developed to learning JavaScript, which took only two weeks, giving me confidence when working with new languages.
@@ -146,8 +155,7 @@ The client requests that I worked on in my previous role in Recruitment were usu
 - Graduated with a First Class Degree and was awarded the Vice Chancellor's Scholarship for my academic achievements. 
 - It was during this degree that I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax that proved helpful when learning coding principles. 🧮
 
-## Hobbies 
-🎨
+## Hobbies 🎨
 
 - Passionate Liverpool supporter (hailing from the Wirral), attending as many live games as possible! 🔴 ⚽
 - Travelling and experiencing new cultures is perhaps my favourite hobby - some of my more interesting destinations include Japan, South Korea, Nepal, India, Ukraine, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
