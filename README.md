@@ -96,17 +96,17 @@ The client requests that I worked on in my previous role in Recruitment were usu
 - The World Literacy Foundation is a charity that seeks to tackle poverty domestically and overseas through the alleviation of child illiteracy.
 - My volunteering role involved researching trusts and foundations that aligned with either our Sun Books project in Uganda or one of our UK based projects.
 - Drafting funding applications and grant proposals to raise funds.
-- Planning, executing and volunteering at events to boost the profile of the charity and raise funds.
+- Planning, executing and volunteering at events to boost the profile of the charity and garner donations.
 
 **Albion Primary School** (Aug 2018 – Nov 2019)
 *Special Educational Needs Support Staff*
 - Working with children with special needs (primarily autism), assisting them socially, academically and emotionally in all aspects of their school life.
-- Planned individually tailored lessons in co-ordination with the class teacher and Special Educational Needs Coordinator, and conducted these lessons, focusing on speech and language development, basic Maths and English, and empathetic and social behaviours.
-- I led group sessions for a small class of autistic children, where we practiced sharing, showing restraint and playing together, utilising a range of sensory equipment to engage the children’s attention.
+- Planned and delivered individually tailored lessons in conjunction with the class teacher and Special Educational Needs Coordinator, focusing on speech and language development, basic Maths and English, and empathetic and social behaviours.
+- Frequently led group sessions for a small class of autistic children, where we practiced sharing, showing restraint and playing together, utilising a range of sensory equipment to engage the children’s attention.
 
 **Sugarman Group** (Nov 2017 – Aug 2018)
 *Classroom Assistant*
-- I worked as a one-to-one classroom assistant for an agency after completing my Masters degree. I worked with children with various behavioural issues and special needs. Shortly after being placed at Albion Primary School, I was hired as a full-time member of staff.
+- I worked as a one-to-one classroom assistant after completing my Masters degree. I worked with children with various behavioural issues and special needs. Shortly after being placed at Albion Primary School, I was hired as a full-time member of staff.
 
 **Unitemps, University of Roehampton** (Feb 2016 – Aug 2016)
 *Office Administrator*
@@ -128,7 +128,7 @@ The client requests that I worked on in my previous role in Recruitment were usu
 - **Pair programming:** Established fantastic working relationships with peers in daily pairing sessions, working as both 'driver' and navigator' to achieve shared goals.
 - **Debugging:** Learned the importance of getting visibility when faced with an error and how to follow stack trace messages to find and fix a problem at the source.
 - **Object Oriented-Design:** Can develop and structure applications using objects and classes, having learned how to split a program into smaller, manageable chunks of DRY code.
-- **Databases:** Worked with PostgreSQL, ActiveRecord (ORM), MongoDB and TablePlus to build programs that store data and perform CRUD operations.
+- **Databases:** Worked with PostgreSQL, ActiveRecord (ORM), MongoDB, Mongoose (ODM) and TablePlus to build databases and programs that store data and perform CRUD operations.
 - **API's:** Used GET and POST requests to API's for a number of projects throughout the course, using Postman and testing to deepen my understanding of data transferral.
 - **Agile workflow:** Followed Agile development processes to build projects as part of a team, complimented by various technologies; detailed planning (Excalidraw), tickets (Trello), sprints, retros (Miro), daily standups and iterative development.
 
@@ -143,7 +143,7 @@ The client requests that I worked on in my previous role in Recruitment were usu
 ## Hobbies 🎨
 
 - Passionate Liverpool supporter (hailing from the Wirral), attending as many live games as possible! 🔴 ⚽
-- Travelling and experiencing new cultures is my favourite thing to do - some of my more interesting trips were to Japan, South Korea, Nepal, India, Russia, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
+- Travelling and experiencing new cultures is perhaps my favourite hobby - some of my more interesting destinations include Japan, South Korea, Nepal, India, Ukraine, Colombia, Peru, Brazil and Bolivia. ✈️ 🌎 
 - Keen golfer, though my game is very much a work in progress.. ⛳ 🐯
 - Snapping portraits of friends and capturing natural beauty on my 35mm film cameras. 📷 🎞️
 - Healthy living and cooking - I like to work out a few times a week and enjoy regularly trying new dishes and cuisines! 🏃🍴
