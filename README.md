@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision pursue a new challenge and career in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I am thrilled to be continuously learning and developing each day. ⭐
+I'm Ollie, a recent graduate of [Makers Academy](https://makers.tech/), a highly-selective, 16-week Software Engineering bootcamp, and I'm incredibly excited to be searching for my first role as a Software Developer. After working in the charity and education sectors for a number of years, I took the decision pursue a new challenge and career in the form of Software Development. Since taking the plunge into the world of programming, I haven't looked back, and I'm thrilled to be continuously learning and developing each day. ⭐
 
 In my previous role, I worked as a Trust Fundraiser for [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk/), a charity providing support for autistic children and young people and promoting neurodiversity across the UK. Whilst I remain passionate about helping others, ultimately, I wanted to find a profession that better aligned with my skillset and personal goals. I am inquistive by nature, and have always been intrigued by technology and how things work, which first led me towards coding - shortly after completing my first few coding exercises, I realised that Software Development was the career path (and creative outlet) I had been searching for. 🔍
 
@@ -43,16 +43,15 @@ As a developer, I have further improved upon my problem solving by implementing 
 
 #### Client and Relationship Management
 
-I have a strong track record for working Discenr and unpick their needs, all bult on steady communication and making myself invaluable to their experience with the compnay. Foestring relationhsips, ad hoc communication - being able to listen?
+I have extensive experience in working with clinets and delivering a product that matches their requirements. Through regular check-ins with donors, ad-hoc communication, and face-to-face meetings, I was able to build strong relationships with all of my top donors when working at Ambiitous about Autism, which led to multiple repeat donations. Listening to and understanding what a client wants, what their prefercnes are, and then meeting those needs was key to my role.
 
-This has been demonstrated in my Bank tech test feedback, where I was able to draw out what the 'client' wanted, and deliver a product that matched their needs - my reveiwer commented "I am absolutely delighted to review this submission. You have excellent code, tests, documentation, evaluation." I also demonstrated the ability to discern and deliver on client needs in my Reviews, where I had the feedback "
+My ability to draw out client needs has been demonstrated in my Bank tech test feedback, where I was able to draw out what the 'client' wanted, and deliver a product that matched their needs - my reveiwer commented "I am absolutely delighted to review this submission. You have excellent code, tests, documentation, evaluation." I also demonstrated the ability to discern and deliver on client needs in my Reviews, where I had the feedback "
 
-You were asking relevant questions which meant that you were able to clarify the main requirements of the program relatively quickly and you were able to flesh out a really good input-output table with your own examples for test cases. This was great as you were able to have a good place to keep track of the requirements that needed to be met and could just simply copy and paste the inputs and outputs into your tests.
-
+it was noted that I asked "relevant questions which meant that you were able to clarify the main requirements of the program" and was therefore "able to flesh out a really good input-output table with your own examples for test cases." 
 
 You began your information-gathering by first noting down the client brief and the acceptance criteria of the programme. This top-down approach results in a better understanding of the core system that the client expects.
 
-Your representation of the requirements of the system and questioning was sufficiently concise. You represented the requirements as acceptance criteria using an input-output table. This is an unambiguous representation of the system and allows you to explore the finer details of the programme's expected behaviour as well as potential edge cases.
+
 
 
 
