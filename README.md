@@ -47,27 +47,9 @@ In group coding projects, I was always vocal with regards to time-management, an
  
 #### Fast learner
 
+I am a highly motivated and dedicated individual with a proven track record of being a fast learner. I possess the ability to quickly absorb new information, soak up knowledge from others, and apply it effectively to my work. I am confident in my ability to learn new skills and technologies, which has allowed me to adapt to new environments swiftly, both profesionally and academically. This includes observing and learning the routines and subtle behavioural differences in each of the autistic children I worked with, comprehending increasingly complex philosophical concepts during my Masters degree, or learning how to write queries and navigate the vast CRM database in my charity role.
 
-
-The 4 month, intensive nature of studying at Makers ensures that all students graduate as independent learners with the confidence and skills to embrace new technologies. The self-driven nature of the Makers course encourages all students to direct their own learning. This has given me the confidence to not only take on any technical challenge, but to embrace learning new technologies. This skill has enabled me to rapidly pick up complex frameworks such as React and node.js, and to learn Javascript in two weeks. I look forward to continuing to pick up varying languages and frameworks to solve new problems within the world of programming.
-
-
-
-As a developer, I went from almost no coding experience to working with APIs with Ruby in just 8 weeks. I then translated this knowledge to become similarly proficient in Javascript in just an additional 2 weeks. 
-
-Passion
-
-
-
-
-
-
-
-
-
-
-
-
+The intensive, self-directed nature of studying at Makers ensures that all students graduate as independent learners with the confidence and skills to embrace new technologies. This has given me the confidence to not only take on any technical challenge, but to embrace learning new technologies. This skill has enabled me to rapidly pick up complex frameworks such as React in a few weeks, and to learn Javascript in just two weeks. I am passionate about learning, and I look forward to continuing to pick up new languages and innovative frameworks to solve new problems within the world of programming.
 
 ## Experience
 
