@@ -23,7 +23,7 @@ I truly love to learn, and I plan to build on the skills and knowledge I acquire
 **Spybook** | Superhero themed Facebook clone, built upon an existing codebase. Users can signup with a profile picture, login, signout, post updates (with pictures and videos), comment on posts and like/unlike posts. 🦸 | Mongoose, MongoDB, Express, React, Nodemon, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus | [Code](https://github.com/kateusacova/acebook-the-incredibles), [Screenshots or video??](...) | Two weeks / Team of 6 |
 **Bank tech test** | Challenge to practice writing clean, test-driven code. Simple bank program that allows users to deposit and withdraw money from a bank account and recieve a formatted bank statement. Reviewer feedback - _"I am absolutely delighted to review this submission. You have excellent code, tests, documentation, evaluation."_ 🏦 | JavaScript, Node, Jest|[Code](https://github.com/Ollie-HB/bank-tech-test) | 2 days / Solo challenge |
 **Gilded Rose tech test** | A challenge focused on refactoring, testing and debugging poorly written, complex code for a fantasy shop/inventory program. 🌹 | JavaScript, Jest | [Code](https://github.com/Ollie-HB/gilded-rose-tech-test) | 1/2 days / Solo challenge |
-**Tic-Tac-Toe** | First project undertaken since finishing the Makers course. Practicing using React and working with game logic. ❌⭕ | React | **[...](...)** | .. days / Solo project | 
+**Tic-Tac-Toe** | First project undertaken since finishing the Makers course. Practicing using React and working with game logic. ❌ ⭕ | React | **[...](...)** | .. days / Solo project | 
 
 ## Skills
 
