@@ -100,7 +100,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 - **Debugging:** Learned the importance of getting visibility when faced with an error and how to follow stack trace messages to find and fix a problem at the source.
 - **Object Oriented-Design:** Can develop and structure applications using objects and classes, having learned how to split a program into smaller, manageable chunks of DRY code.
 - **Databases:** Worked with PostgreSQL, ActiveRecord (ORM), MongoDB, Mongoose (ODM) and TablePlus to build databases and programs that store data and perform CRUD operations.
-- **API's:** Used GET and POST requests to API's for a number of projects throughout the course, using Postman and testing to deepen my understanding of data transferral.
+- **APIs:** Used GET and POST requests to APIs for a number of projects throughout the course, using Postman and testing to deepen my understanding of data transferral.
 - **Agile workflow:** Followed Agile development processes to build projects as part of a team, complimented by various technologies; detailed planning (Excalidraw), tickets (Trello), sprints, retros (Miro), daily standups and iterative development.
 
 **University of Amsterdam** (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
