@@ -57,7 +57,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 *Trust Fundraiser*
 
 - Responsible for managing a large portfolio of donor relationships with numerous competing application deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually reaching a value of approximately £100,000 per year.
--I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value clients. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and we delivered accurate reporting.
+-I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value donors. This involved liaising with project delivery teams, our finance department and external Grants Managers to ensure our fundraising product met donor's needs, showcased the fantastic work of the charity and we delivered accurate reporting.
 - Undertook extensive prospect research to identify income growth potential, which involved managing two Prospect Research volunteer's workloads.
 - Project Manager for all projects across the three schools in our education network - working closely with school staff, contractors and Heads of Department across fundraising and finance to ensure our projects and services ran smoothly, deadlines were met and budgets were adhered to.
 - I recieved an award for Outstanding Contribution to the charity in my first year, thanks to my successful application for two minibuses (worth £80,000+). During my two and a half years at the charity, I a proud to say that I raised over £225,000.
