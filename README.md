@@ -65,8 +65,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 **World Literacy Foundation** (May 2019 – Nov 2019)
 *Fundraising Volunteer (every Saturday)*
 - The World Literacy Foundation is a charity that seeks to tackle poverty domestically and overseas through the alleviation of child illiteracy.
-- My volunteering role involved researching trusts and foundations that aligned with either our Sun Books project in Uganda or one of our UK based projects.
-- Drafting funding applications and grant proposals to raise funds.
+- My volunteering role involved researching trusts and foundations that aligned with either our Sun Books project in Uganda or one of our UK based projects and drafting funding applications.
 - Planning, executing and volunteering at events to boost the profile of the charity and garner donations.
 
 **Albion Primary School** (Aug 2018 – Nov 2019)
