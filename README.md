@@ -55,7 +55,6 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 
 **Ambitious about Autism** (Nov 2019 - June 2022)
 *Trust Fundraiser*
-
 - Responsible for managing a large portfolio of donor relationships with numerous competing application deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually reaching a value of approximately £100,000 per year.
 -I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value donors. This involved liaising with project delivery teams, our finance department and external Grants Managers, to ensure our fundraising product met donors' needs, showcased the fantastic work of the charity and delivered accurate reporting.
 - Undertook extensive prospect research to identify income growth potential, which involved managing two Prospect Research volunteers' workloads.
@@ -68,7 +67,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 - My volunteering role involved researching trusts and foundations that aligned with either our Sun Books project in Uganda or one of our UK based projects and drafting funding applications.
 - Planned, executed and volunteered at events to boost the profile of the charity and solicit donations.
 
-**Albion Primary School** (Aug 2018 – Nov 2019)
+**Albion Primary School** (Aug 2018 – Sep 2019)
 *Special Educational Needs Support Staff*
 - Worked with autistic children, assisting them socially, academically and emotionally in all aspects of their school life.
 - Planned and delivered individually tailored lessons in conjunction with the class teacher and Special Educational Needs Coordinator, focusing on speech and language development, basic Maths and English, and empathetic and social behaviours.
