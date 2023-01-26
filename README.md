@@ -53,7 +53,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 
 ## Experience
 
-**Ambitious about Autism** (Nov 2019 - June 2022)
+**Ambitious about Autism** (Nov 2019 - Jun 2022)
 *Trust Fundraiser*
 - Responsible for managing a large portfolio of donor relationships with numerous competing application deadlines. The value of my portfolio was raised each year as I exceeded my targets, eventually reaching a value of approximately £100,000 per year.
 -I wrote bespoke fundraising bids (ranging from £1000-£25,000) and reports for high-value donors. This involved liaising with project delivery teams, our finance department and external Grants Managers, to ensure our fundraising product met donors' needs, showcased the fantastic work of the charity and delivered accurate reporting.
@@ -67,7 +67,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 - My volunteering role involved researching trusts and foundations that aligned with either our Sun Books project in Uganda or one of our UK based projects and drafting funding applications.
 - Planned, executed and volunteered at events to boost the profile of the charity and solicit donations.
 
-**Albion Primary School** (Aug 2018 – Sep 2019)
+**Albion Primary School** (Aug 2018 – Aug 2019)
 *Special Educational Needs Support Staff*
 - Worked with autistic children, assisting them socially, academically and emotionally in all aspects of their school life.
 - Planned and delivered individually tailored lessons in conjunction with the class teacher and Special Educational Needs Coordinator, focusing on speech and language development, basic Maths and English, and empathetic and social behaviours.
@@ -84,7 +84,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 - I was responsible for managing and updating data spreadsheets and coordinating targeted mailshots to the alumni and student database.
 - Frequently liaised with CEOs and HR departments, communicating effectively and professionally at all levels.
 
-**Gee & Watson Financial Advisors** (Sep 2010 – Aug 2012)
+**Gee & Watson Financial Advisors** (Nov 2010 – May 2012)
 *Office Assistant - Part-time*
 - I was involved in day-to-day office management, taking calls, organising meetings, referring clients to appropriate team members.
 - This position enhanced my time-keeping and organisational skills.
