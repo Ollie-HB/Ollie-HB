@@ -62,7 +62,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 - I received an award for Outstanding Contribution to the charity in my first year, thanks to my successful application for two minibuses (worth £80,000+). During my time at the charity, I am proud to say that I raised over £225,000.
 
 **World Literacy Foundation** (May 2019 – Nov 2019)
-*Fundraising Volunteer*
+*Fundraising Intern*
 - The World Literacy Foundation is a charity that seeks to tackle poverty domestically and overseas through the alleviation of child illiteracy.
 - My volunteering role involved researching trusts and foundations that aligned with either our Sun Books project in Uganda or one of our UK based projects and drafting funding applications.
 - Planned, executed and volunteered at events to boost the profile of the charity and solicit donations.
