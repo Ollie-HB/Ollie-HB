@@ -103,11 +103,11 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 
 **University of Amsterdam** (2016 - Sep 2017) – MA – Philosophy – (Merit - GPA of 79.1%) 
 - Awarded a Distinction for Master’s Thesis.
-- During my Masters, I honed my problem solving, research, and critical thinking skills. I studied Temporality and Time, Philosophical Literature, Philosophy of Language and Phenomenology. 🧠
+- I honed my problem solving, research, and critical thinking skills. I studied Temporality and Time, Philosophical Literature, Philosophy of Language and Phenomenology. 🧠
 
 **University of Roehampton** (2012 - 2015) – BA – Philosophy – (1st BA Hons)
 - Graduated with a First Class Degree and was awarded the Vice Chancellor's Scholarship for my academic achievements. 
-- During this degree, I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax, which proved helpful when learning coding principles. 🧮
+- Here, I first encountered Philosophical Logic, studying boolean logic, truth tables and other logical syntax, which proved helpful when learning coding principles. 🧮
 
 ## Hobbies
 
