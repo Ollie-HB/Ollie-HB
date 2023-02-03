@@ -79,7 +79,7 @@ The intensive, self-directed nature of studying at Makers ensures that all stude
 
 **Unitemps, University of Roehampton** (Feb 2016 – Aug 2016)
 *Office Administrator*
-- I assisted Roehampton University’s Careers Department and promoted Unitemps’ services through creative advertising and social media drives.
+- I designed innovative advertising campaigns and social media initiatives for Roehampton University to raise awareness of Unitemps services.
 - My pitching of our Santander-partnered internship scheme to prospective clients (in live presentations and over the phone), meant that our team exceeded the previous annual record of candidate placements.
 - I was responsible for managing and updating data spreadsheets and coordinating targeted mailshots to the alumni and student database.
 - Frequently liaised with CEOs and HR departments, communicating effectively and professionally at all levels.
